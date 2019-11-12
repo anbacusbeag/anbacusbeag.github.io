@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'SwirlWebFont';
+  src: url('swirl-webfont.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+   url('swirl.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+
+
+h1.shop-logo {
+  font-family: 'Dancing Script', cursive;
+  font-size: 11vw;
+  font-weight:300;
+}
+
+h1.page-header {
+  font-family: 'Lato', sans-serif;
+  font-size: 6vw;
+  font-weight: 100;
+}
+
+h3.shop-logo2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 7vw;
+}
+
+p.slogan {
+  font-family: 'Lato', sans-serif;
+  font-size: 2vw;
+  font-weight: 300;
+}
+
+.footer1-z {
+  margin: auto;
+  width: 50%;
+}
+
+.nav-item{
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3vw;
+  color: rgba(255,255,255,.5) !important;
+}
+
+a.nav-link {
+  color: rgba(255,255,255,.5) !important;
+}
+
+
+div.soc-item {
+  padding: 1%;
+}
